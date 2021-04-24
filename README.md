@@ -1,2 +1,3 @@
 # Adaptive-Control-Systems
-Istanbul Technical University KOM511 lecture assignments
+
+Adaptive control systems and some of the system identification algorithms implementations
